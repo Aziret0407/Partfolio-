@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+HTML_FINAL2/
+
+Partfolio-/
+task_manager/Partfolio-/
+
+task_manager/.idea/
+task_manager/.venv/
+task_manager/__pycache__/
+task_manager/app/__pycache__/
+task_manager/instance/tasks.db
